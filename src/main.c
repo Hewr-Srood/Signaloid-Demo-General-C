@@ -15,7 +15,7 @@ main(int argc, char *  argv[])
 	c = (a+b)/(a-b);
 	printf("c = %lf\n", c);
 
-	printf("test")
+	printf("test");
 
 #ifdef DEBUG
 	printf("debug message\n");
